@@ -18,3 +18,9 @@ El eje central de este informe es el sector financiero en este caso se habla del
 
 Este documento se encuentra organizado en 6 secciones, y finalmente unos resultados y conclusiones, las secciones están descritas de la siguiente manera, inicialmente en la
 Sección 1, se habla del estado de arte y como diferentes autores han implementado algoritmos de inteligencia artificial en problemas de inversión, para la sección 2 se plantea un marco conceptual donde se menciona toda la fundamentación teórica de la lógica de negocio correspondiente y la manera de extraer información relacionada, para la sección 3 se formula una serie de técnicas y métodos para procesar la información obtenida de acuerdo a un modelo de flujo de datos establecido, en la sección 4 y 5 se plantean dos algoritmos los cuales son el método de Montecarlo y el k-means clustering, donde se define su descripción y aplicación para lograr una inversión inteligente, para la sección 6 se plantea el mismo proceso pero esta vez se va a implementar en una serie temporal, finalmente en los resultados se concluirá cuál de los algoritmos implementados es el más aproximado  a un valor óptimo.
+
+
+### 1.1 Estado del arte
+
+Con el rápido desarrollo de las técnicas de aprendizaje automático en los últimos años, se ha propuesto una gran cantidad de algoritmos para brindar apoyo a las decisiones de los inversores y el análisis profesional. Estas técnicas se utilizan a menudo en el comercio de acciones de dos formas: predicción del precio de las acciones y predicción del punto de negociación de las acciones.
+

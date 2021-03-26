@@ -33,6 +33,6 @@ En este documento, se propone un novedoso sistema para analizar las acciones de 
 
 ### 2. Marco conceptual
 
-### 2.1 2.1	Fundamentos básicos de inversión
+### 2.1 Fundamentos básicos de inversión
 
 El mercado de acciones es un lugar donde las personas pueden comprar acciones de una empresa y venderlas con ganancias, en algún momento en el futuro. Luego está el comercio intradía, donde la compra y la venta se realizan en un día. Si bien el mercado de acciones es ideal para las personas a las que no les importa invertir a largo plazo, los inversores a corto plazo suelen dominar el mercado comercial. Pero estos inversores necesitan formar diversas estrategias y realizar sus operaciones basándose en la información derivada de gráficos técnicos, patrones y tendencias. 

@@ -31,4 +31,8 @@ En la predicción de cotizaciones bursátiles, Bekiros [7] propuso un sistema h�
 En este documento, se propone un novedoso sistema para analizar las acciones de una determinada empresa y tomar una decisión en cuanto a inversión se refiere, para lograr dicho objetivo es necesario aplicar algunas técnicas de Webscraping y algunos algoritmos de aprendizaje automático como podrían ser k-means, clasificaciones y regresiones, algoritmos de clustering,  Gaussian mixture model (GMM), y una red neuronal, se plantean una serie de etapas que van desde la extracción de los datos hasta la evaluación de que modelo de aprendizaje es más idónea si una con aprendizaje supervisado o una con aprendizaje NO supervisado  ya casi finalizando se evalúa que tan acertada fue la predicción programada y tener una respuesta de inversión inteligente.
 
 
+### 2. Marco conceptual
 
+### 2.1 2.1	Fundamentos básicos de inversión
+
+El mercado de acciones es un lugar donde las personas pueden comprar acciones de una empresa y venderlas con ganancias, en algún momento en el futuro. Luego está el comercio intradía, donde la compra y la venta se realizan en un día. Si bien el mercado de acciones es ideal para las personas a las que no les importa invertir a largo plazo, los inversores a corto plazo suelen dominar el mercado comercial. Pero estos inversores necesitan formar diversas estrategias y realizar sus operaciones basándose en la información derivada de gráficos técnicos, patrones y tendencias. 

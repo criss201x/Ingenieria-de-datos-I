@@ -44,3 +44,8 @@ Las velas en trading indican la puja de los precios del mercado, su valor en la 
 ### 2.2	Extracción de datos 
 
 El objetivo principal de Web Scraping es extraer información de uno o varios sitios web y procesarla en estructuras simples como hojas de cálculo, bases de datos o archivos CSV. Sin embargo, además de ser una tarea muy complicada, Web Scraping consume tiempo y recursos, principalmente cuando se realiza manualmente. Estudios anteriores han desarrollado varias soluciones automatizadas. El presente informe no se enfoca en hacer descripciones de técnicas avanzadas de web scraping, mas bien se le da un enfoque absolutamente practico en la implementación para el objetivo del análisis.
+
+### 2.2	Extracción de datos financieros 
+
+Para poder realizar operaciones de análisis de datos financieros es una buena idea partir de la extracción de datos de fuentes fiables, se plantean varias opciones para poder trabajar con datos totalmente relacionados al objetivo de estudio, a continuación, algunas de ellas:
+

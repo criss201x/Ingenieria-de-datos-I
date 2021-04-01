@@ -49,3 +49,5 @@ El objetivo principal de Web Scraping es extraer información de uno o varios si
 
 Para poder realizar operaciones de análisis de datos financieros es una buena idea partir de la extracción de datos de fuentes fiables, se plantean varias opciones para poder trabajar con datos totalmente relacionados al objetivo de estudio, a continuación, algunas de ellas:
 
+- **Web Scraping (clásico):** por ejemplo, para buscar noticias relevantes con las empresas en las que se está invirtiendo
+

@@ -51,4 +51,4 @@ Para poder realizar operaciones de análisis de datos financieros es una buena i
 
 - **Web Scraping (clásico):** por ejemplo, para buscar noticias relevantes con las empresas en las que se está invirtiendo
 - **IEX Cloud:** Plataforma de pago que dispone de una versión gratuita donde se pueden hasta recolectar 500000 datos cada mes, es un api y dispone de un módulo en Python para desarrolladores
-
+- **Finnhub.io** dispone de un plan gratuito con 60 llamadas al api por minuto, tiene una documentación amigable y maneja un api rest, link de la documentación https://finnhub.io/docs/api 

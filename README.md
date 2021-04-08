@@ -56,3 +56,5 @@ Para poder realizar operaciones de análisis de datos financieros es una buena i
 - **Tingo:** el plan gratuito ofrece hasta 500 llamadas al api al día y 500 símbolos al mes
 - **API de Twitter:** permite evaluar de cómo se está hablando de las empresas en redes sociales, se puede hacer un análisis de sentimiento y tomar decisiones según redes sociales.
 - **Api de Yahoo Finances:** es una opción conocida y muy popular en este nicho, a continuación, puede ver que su implementación en un lenguaje de programación es muy sencilla además que los resultados obtenidos son muy fáciles de entender.
+
+![Figura 1](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_0.png)

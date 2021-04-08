@@ -50,4 +50,9 @@ El objetivo principal de Web Scraping es extraer información de uno o varios si
 Para poder realizar operaciones de análisis de datos financieros es una buena idea partir de la extracción de datos de fuentes fiables, se plantean varias opciones para poder trabajar con datos totalmente relacionados al objetivo de estudio, a continuación, algunas de ellas:
 
 - **Web Scraping (clásico):** por ejemplo, para buscar noticias relevantes con las empresas en las que se está invirtiendo
-
+- **IEX Cloud:** Plataforma de pago que dispone de una versión gratuita donde se pueden hasta recolectar 500000 datos cada mes, es un api y dispone de un módulo en Python para desarrolladores
+- **Finnhub.io** dispone de un plan gratuito con 60 llamadas al api por minuto, tiene una documentación amigable y maneja un api rest, link de la documentación https://finnhub.io/docs/api 
+- **Alphaventage:** plataforma de pago, 500 peticiones al día con un coste de 30$ al mes. Nos ofrece datos en tiempo real
+- **Tingo:** el plan gratuito ofrece hasta 500 llamadas al api al día y 500 símbolos al mes
+- **API de Twitter:** permite evaluar de cómo se está hablando de las empresas en redes sociales, se puede hacer un análisis de sentimiento y tomar decisiones según redes sociales.
+- **Api de Yahoo Finances:** es una opción conocida y muy popular en este nicho, a continuación, puede ver que su implementación en un lenguaje de programación es muy sencilla además que los resultados obtenidos son muy fáciles de entender.

@@ -58,3 +58,7 @@ Para poder realizar operaciones de análisis de datos financieros es una buena i
 - **Api de Yahoo Finances:** es una opción conocida y muy popular en este nicho, a continuación, puede ver que su implementación en un lenguaje de programación es muy sencilla además que los resultados obtenidos son muy fáciles de entender.
 
 ![Figura 1](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_0.png)
+
+### 3. Procesamiento y transformación de datos
+
+Los datos que extraemos a menudo no están listos para ser analizados, pueden contener valores faltantes, no pueden faltar fechas como los fines de semana y feriados cuando el mercado está cerrado, si se desea obtener un modelo basado en series temporales no es posible dejar huecos de días en un Dataset, contienen muchas fluctuaciones que dificultan la convergencia del modelo predictivo. A continuación, se va a representar mediante un diagrama de flujo, que manifiesta el comportamiento de los datos desde su fase de extracción hasta obtener el valor de previsión.

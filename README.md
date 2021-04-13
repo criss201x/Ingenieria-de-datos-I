@@ -68,3 +68,4 @@ Los datos que extraemos a menudo no están listos para ser analizados, pueden co
 **Figura 1.** Flujo de datos 
 
 - **primera etapa:** Agregar los días que faltan a través de los comandos ofrecidos por la librería pandas
+![Figura 2](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_2.png)

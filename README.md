@@ -69,5 +69,7 @@ Los datos que extraemos a menudo no están listos para ser analizados, pueden co
 
 - **primera etapa:** Agregar los días que faltan a través de los comandos ofrecidos por la librería pandas
 ![Figura 2](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_2.png)
+
 - **Segunda etapa: Rellenar valores faltantes:** Método fillna, que rellena los valores faltantes utilizando los valores del día anterior o siguiente, por otro lado el Método interpolate, que utiliza los valores anteriores y siguientes para definir una función que asocia los valores de precio con los días
+
 ![Figura 3](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_3.png)

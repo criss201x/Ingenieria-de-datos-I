@@ -73,3 +73,4 @@ Los datos que extraemos a menudo no están listos para ser analizados, pueden co
 - **Segunda etapa: Rellenar valores faltantes:** Método fillna, que rellena los valores faltantes utilizando los valores del día anterior o siguiente, por otro lado el Método interpolate, que utiliza los valores anteriores y siguientes para definir una función que asocia los valores de precio con los días
 
 ![Figura 3](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_3.png)
+- **Tercera etapa: reducir fluctuaciones:** Calcular la media móvil, simplemente es sustituir cada día con la media calculada con los x días antes

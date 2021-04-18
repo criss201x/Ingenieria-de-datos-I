@@ -74,4 +74,5 @@ Los datos que extraemos a menudo no están listos para ser analizados, pueden co
 
 ![Figura 3](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_3.png)
 - **Tercera etapa: reducir fluctuaciones:** Calcular la media móvil, simplemente es sustituir cada día con la media calculada con los x días antes
+
 ![Figura 4](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_4.png)

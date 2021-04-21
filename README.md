@@ -80,3 +80,5 @@ Los datos que extraemos a menudo no están listos para ser analizados, pueden co
 **Filtro de Kalman:** esta herramienta sirve para estimar el estado de un sistema dinámico lineal perturbado por el ruido, basado en mediciones (u observaciones) linealmente dependientes del estado y corrompidas por el ruido.
 
 Es un filtro recursivo eficiente que evalua el estado de un sistema dinamico a partir de una serie de mediciones sujetas a ruido. se puede usar en este contexto si se toman valores reales y fluctuantes del precio como valor medido.
+
+![Figura 5](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_5.png)

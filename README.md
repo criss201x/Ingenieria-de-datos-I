@@ -84,5 +84,8 @@ Es un filtro recursivo eficiente que evalua el estado de un sistema dinamico a p
 ![Figura 5](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_5.png)
 
 **Figura 2.** Filtro de Kalman 
+
 Básicamente está basado en realizar una serie de simulaciones y probar diferentes casos para establecer de forma aleatoria condiciones del mercado es decir que no podemos predecir el futuro, pero podemos hacer simulaciones en base a datos pasados para intentar predecir cómo se va a comportar el mercado. [12]
+
+En términos técnicos el método de Montecarlo es una técnica que utiliza números aleatorios y probabilidad para resolver problemas complejos. La simulación de Monte Carlo, o simulación de probabilidad, es una técnica utilizada para comprender el impacto del riesgo y la incertidumbre en los sectores financieros, la gestión de proyectos, los costos y otros modelos de pronóstico por aprendizaje automático.
 

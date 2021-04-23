@@ -82,3 +82,7 @@ Los datos que extraemos a menudo no están listos para ser analizados, pueden co
 Es un filtro recursivo eficiente que evalua el estado de un sistema dinamico a partir de una serie de mediciones sujetas a ruido. se puede usar en este contexto si se toman valores reales y fluctuantes del precio como valor medido.
 
 ![Figura 5](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_5.png)
+
+**Figura 2.** Filtro de Kalman 
+Básicamente está basado en realizar una serie de simulaciones y probar diferentes casos para establecer de forma aleatoria condiciones del mercado es decir que no podemos predecir el futuro, pero podemos hacer simulaciones en base a datos pasados para intentar predecir cómo se va a comportar el mercado. [12]
+

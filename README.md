@@ -89,3 +89,4 @@ Básicamente está basado en realizar una serie de simulaciones y probar diferen
 
 En términos técnicos el método de Montecarlo es una técnica que utiliza números aleatorios y probabilidad para resolver problemas complejos. La simulación de Monte Carlo, o simulación de probabilidad, es una técnica utilizada para comprender el impacto del riesgo y la incertidumbre en los sectores financieros, la gestión de proyectos, los costos y otros modelos de pronóstico por aprendizaje automático.
 
+![Figura 6](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_6.png)

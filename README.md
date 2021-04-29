@@ -92,3 +92,5 @@ En términos técnicos el método de Montecarlo es una técnica que utiliza núm
 ![Figura 6](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_6.png)
 
 Estos son diferentes comportamientos que podría tener el mercado en base a los parámetros que reciban el número de intervalos e iteraciones, sería interesante calcular la media de estas líneas para saber si va a subir o bajar (ejercicio completo disponible en el cuaderno jupyter).
+
+![Figura 7](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_7.png)

@@ -100,3 +100,11 @@ Estos son diferentes comportamientos que podría tener el mercado en base a los 
 ### 5. K-Means Clustering
 
 La agrupación en clústeres de K-means es una técnica no supervisada que se utiliza principalmente para la previsión financiera. [15] Esta técnica de agrupación basada en clústeres presenta la eliminación del peso mediante la normalización de atributos para obtener un resultado ideal.
+
+La técnica de normalización se puede representar con la siguiente formula
+
+X-Xmin/Xmax-Xmin
+
+“La agrupación en clústeres de K-medias también implica el análisis de componentes principales que presenta la selección de solo aquellos componentes que tienen un efecto profundo en la clasificación. Los componentes restantes se eliminan.”[16]
+
+Los pasos básicos de la agrupación en clústeres de K-medias son los siguientes:

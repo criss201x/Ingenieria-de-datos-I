@@ -113,3 +113,6 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 2. Determine la distancia de cada objeto al centroide.
 3. Seleccione la distancia mínima de las distancias obtenidas
 4. Agrupar objetos sobre la base de distancias mínimas Continúe los pasos 3 y 4 hasta que se reasigne uno de los objetivos
+
+### 5. Fases en un problema de aprendizaje automático aplicado al trading
+

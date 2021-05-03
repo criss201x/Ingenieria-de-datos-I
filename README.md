@@ -116,3 +116,4 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 
 ### 5. Fases en un problema de aprendizaje automático aplicado al trading
 
+![Figura 8](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_8.png)

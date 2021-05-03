@@ -92,3 +92,27 @@ En términos técnicos el método de Montecarlo es una técnica que utiliza núm
 ![Figura 6](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_6.png)
 
 Estos son diferentes comportamientos que podría tener el mercado en base a los parámetros que reciban el número de intervalos e iteraciones, sería interesante calcular la media de estas líneas para saber si va a subir o bajar (ejercicio completo disponible en el cuaderno jupyter).
+
+![Figura 7](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_7.png)
+
+**Figura 3.** Simulación de Montecarlo aplicada
+
+### 5. K-Means Clustering
+
+La agrupación en clústeres de K-means es una técnica no supervisada que se utiliza principalmente para la previsión financiera. [15] Esta técnica de agrupación basada en clústeres presenta la eliminación del peso mediante la normalización de atributos para obtener un resultado ideal.
+
+La técnica de normalización se puede representar con la siguiente formula
+
+X-Xmin/Xmax-Xmin
+
+“La agrupación en clústeres de K-medias también implica el análisis de componentes principales que presenta la selección de solo aquellos componentes que tienen un efecto profundo en la clasificación. Los componentes restantes se eliminan.”[16]
+
+Los pasos básicos de la agrupación en clústeres de K-medias son los siguientes:
+
+1. Inicialice centroides que sean iguales a la cantidad de clases (objetivos) en los datos
+2. Determine la distancia de cada objeto al centroide.
+3. Seleccione la distancia mínima de las distancias obtenidas
+4. Agrupar objetos sobre la base de distancias mínimas Continúe los pasos 3 y 4 hasta que se reasigne uno de los objetivos
+
+### 5. Fases en un problema de aprendizaje automático aplicado al trading
+

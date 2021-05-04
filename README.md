@@ -119,3 +119,5 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 ![Figura 8](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_8.png)
 
 **Figura 4.** Flujo de datos con series temporales
+
+- **Definir una escala temporal:** se define cada cuando tiempo se va a tomar datos por ejemplo un mes

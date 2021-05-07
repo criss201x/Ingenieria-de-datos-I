@@ -121,3 +121,5 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 **Figura 4.** Flujo de datos con series temporales
 
 - **Definir una escala temporal:** se define cada cuando tiempo se va a tomar datos por ejemplo un mes
+- **Seleccionar un conjunto de empresas:** no se podría hacer un modelo para todas las empresas, se podría hacer un modelo por empresas, por sectores, por empresas de determinado porcentaje de capitalización bursátil
+

@@ -124,4 +124,4 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 - **Seleccionar un conjunto de empresas:** no se podría hacer un modelo para todas las empresas, se podría hacer un modelo por empresas, por sectores, por empresas de determinado porcentaje de capitalización bursátil
 - **Comprobar la existencia de valores nulos y faltantes:** se hace una limpieza de datos
 - **Preparación de los datos para el modelo:** los datos sin transformar tienen un formato y el modelo a aplicar tiene otro, se requiere un proceso de preparación de datos
-- **Entrenamiento del modelo: ** se obtienen resultados
+- **Entrenamiento del modelo:** se obtienen resultados

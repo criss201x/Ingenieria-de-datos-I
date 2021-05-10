@@ -114,7 +114,7 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 3. Seleccione la distancia mínima de las distancias obtenidas
 4. Agrupar objetos sobre la base de distancias mínimas Continúe los pasos 3 y 4 hasta que se reasigne uno de los objetivos
 
-### 5. Fases en un problema de aprendizaje automático aplicado al trading
+### 6. Fases en un problema de aprendizaje automático aplicado al trading
 
 ![Figura 8](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_8.png)
 
@@ -125,3 +125,9 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 - **Comprobar la existencia de valores nulos y faltantes:** se hace una limpieza de datos
 - **Preparación de los datos para el modelo:** los datos sin transformar tienen un formato y el modelo a aplicar tiene otro, se requiere un proceso de preparación de datos
 - **Entrenamiento del modelo:** se obtienen resultados
+
+### 7. Pasos finales y resultados
+
+- Evaluación del modelo
+- Factores importantes: señal y predictibilidad, la señal pregunta si el precio va subir o va a bajar, la predictibilidad dice que tan fiable es el resultado de la predicción que ofrece el modelo
+

@@ -130,4 +130,7 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 
 - Evaluación del modelo
 - Factores importantes: señal y predictibilidad, la señal pregunta si el precio va subir o va a bajar, la predictibilidad dice que tan fiable es el resultado de la predicción que ofrece el modelo
-
+- ¿El precio sube o baja?
+- ¿Cuánto de verdadero es ese resultado?
+- El Precio de cierre es dividido por el precio de cierre predicho -1
+- Interpretación de los resultados: de todas las empresas en el modelo de entrenamiento siempre hay empresas mejores que otras entonces un inversor trabaja sobre las mejores empresas

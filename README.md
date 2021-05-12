@@ -134,3 +134,5 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 - ¿Cuánto de verdadero es ese resultado?
 - El Precio de cierre es dividido por el precio de cierre predicho -1
 - Interpretación de los resultados: de todas las empresas en el modelo de entrenamiento siempre hay empresas mejores que otras entonces un inversor trabaja sobre las mejores empresas
+
+Un área clave que afecta las fluctuaciones del mercado es la psicología del mercado o del inversor. Esto se denomina "Finanzas conductuales". Aunque nos hemos vuelto cada vez más eficientes en la predicción de las tendencias del mercado utilizando métodos cuantitativos e Inteligencia Artificial, la psicología del mercado sigue confundiendo los modelos de predicción que hasta ahora nunca la han tenido en cuenta en el mismo nivel en el que afecta al mercado. [13]

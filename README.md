@@ -136,3 +136,5 @@ Los pasos básicos de la agrupación en clústeres de K-medias son los siguiente
 - Interpretación de los resultados: de todas las empresas en el modelo de entrenamiento siempre hay empresas mejores que otras entonces un inversor trabaja sobre las mejores empresas
 
 Un área clave que afecta las fluctuaciones del mercado es la psicología del mercado o del inversor. Esto se denomina "Finanzas conductuales". Aunque nos hemos vuelto cada vez más eficientes en la predicción de las tendencias del mercado utilizando métodos cuantitativos e Inteligencia Artificial, la psicología del mercado sigue confundiendo los modelos de predicción que hasta ahora nunca la han tenido en cuenta en el mismo nivel en el que afecta al mercado. [13]
+
+Una solución adecuada para utilizar la psicología del mercado en nuestro beneficio es mediante el seguimiento de la interacción pública con y en las plataformas electrónicas de comercio financiero. Esto incluiría la minería de textos y el aprendizaje automático para establecer una escala de emociones de los inversores que podrían afectar directa o indirectamente al mercado.

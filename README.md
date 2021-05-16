@@ -143,5 +143,5 @@ Una solución adecuada para utilizar la psicología del mercado en nuestro benef
 
 El valor optimo obtenido ya sea con un algoritmo u otro no es cuestión únicamente de aplicar el algoritmo al dataset en cuestión, en la fase de extracción y procesamiento de datos podemos observar que estos datos se han ido refinando de diversas maneras, la optimización que se hizo sobre el dataset previa al entrenamiento fue una reducción de fluctuaciones en los precios por medio del filtro de Kalman, que en secciones anteriores se explico, a continuación se muestran los resultados aplicados al dataset de yahoo.
 
-
+![Figura 9](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_9.png)
 

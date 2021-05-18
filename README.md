@@ -145,3 +145,6 @@ El valor optimo obtenido ya sea con un algoritmo u otro no es cuestión únicame
 
 ![Figura 9](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_9.png)
 
+**Figura 5.** Filtro de Kalman aplicado
+
+Para el método de montecarlo podemos concluir aspectos respecto a tiempo y previsiones por medio de intervalos de tiempo y simulaciones para ello lo que se hizo fue estudiar datos financieros acerca de Facebook en un intervalo de fechas y se calcula su ganancia logarítmica, para su varianza se calcula el valor recibido más una unidad, en esencia lo que se calcula es un porcentaje de variación de la empresa y se grafican sus ganancias, todo esto para tener un análisis previo al entrenamiento deldataset.

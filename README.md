@@ -151,4 +151,5 @@ Para el método de montecarlo podemos concluir aspectos respecto a tiempo y prev
 
 El modelo propuesto también implementa un monitoreo constante de los comentarios e interacciones por parte de los usuarios y se incorporaría a una escala de calificación que representaría un factor en la toma de decisiones, esto se conoce como análisis de sentimiento, su aplicación en el contexto consiste en buscar un determinado tweet, después se hace lo que se conoce como minería de tweets, posteriormente se definen una serie de métodos de procesado de lenguaje natural y de acuerdo a unos puntajes obtenidos se definen unos umbrales y se grafican, para el caso de AMAZON los resultados serian los siguientes 10.
 
+![Figura 10](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_10.png)
 

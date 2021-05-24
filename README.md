@@ -153,3 +153,8 @@ El modelo propuesto también implementa un monitoreo constante de los comentario
 
 ![Figura 10](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_10.png)
 
+**Figura 7**. Análisis de opiniones obtenidas en los tweets de AMAZON
+
+Por otro lado viendo los algoritmos de aprendizaje automático aplicados al presente contexto es importante aclarar que la eficiencia de estos va sujeto a una adecuada extracción y procesamiento de estos datos, por un lado tenemos el algoritmo GMM que Es una de las mejores técnicas de clustering de aprendizaje no supervisado para obtener una estimación de la densidad de un conjunto de muestras utilizadas para el aprendizaje del dataset.
+
+

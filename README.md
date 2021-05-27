@@ -157,6 +157,5 @@ El modelo propuesto también implementa un monitoreo constante de los comentario
 
 Por otro lado viendo los algoritmos de aprendizaje automático aplicados al presente contexto es importante aclarar que la eficiencia de estos va sujeto a una adecuada extracción y procesamiento de estos datos, por un lado tenemos el algoritmo GMM que Es una de las mejores técnicas de clustering de aprendizaje no supervisado para obtener una estimación de la densidad de un conjunto de muestras utilizadas para el aprendizaje del dataset.
 
-Para la implementación de este algoritmo después de la fase de procesamiento de datos lo que se hace es extraer la fila donde está el precio del ultimo de cada ventana de 30 días, se evalúa su subida o su bajada de acuerdo a los valores en el vector, y para graficar se hace una iteración en el dataset y se visualizan las variables de distribución donde los puntos rojos traducen que el valor baja y azul cuando el valor sube.
 
 

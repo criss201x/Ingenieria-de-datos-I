@@ -160,3 +160,9 @@ Por otro lado viendo los algoritmos de aprendizaje automático aplicados al pres
 Para la implementación de este algoritmo después de la fase de procesamiento de datos lo que se hace es extraer la fila donde está el precio del ultimo de cada ventana de 30 días, se evalúa su subida o su bajada de acuerdo a los valores en el vector, y para graficar se hace una iteración en el dataset y se visualizan las variables de distribución donde los puntos rojos traducen que el valor baja y azul cuando el valor sube.
 
 ![Figura 11](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_11.png)
+
+**Figura 7.** Entrenamiento del dataset 
+
+Teniendo el data set, este se divide en dos las dos clases que se tienen, se le agregan 8 variables gaussianas, estas se entrenan y su puntaje obtenido devuelve la probabilidad de que cada ejemplo pertenece a un GMM o a otro.
+
+

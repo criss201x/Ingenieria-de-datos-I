@@ -165,4 +165,7 @@ Para la implementación de este algoritmo después de la fase de procesamiento d
 
 Teniendo el data set, este se divide en dos las dos clases que se tienen, se le agregan 8 variables gaussianas, estas se entrenan y su puntaje obtenido devuelve la probabilidad de que cada ejemplo pertenece a un GMM o a otro.
 
+Por otro lado el algoritmo K-means que también es un algoritmo de clustering donde el objetivo es encontrar K vectores donde k es el numero de cluster y la media (u) tal que cada muestra será asignada al cluster correspondiente a la media mas cercana El modelo K-mean puede verse como un modelo GMM simplificado hasta el extremo, su implementación también es similar que el anterior.
+
+
 

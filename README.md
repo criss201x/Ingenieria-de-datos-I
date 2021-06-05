@@ -167,5 +167,5 @@ Teniendo el data set, este se divide en dos las dos clases que se tienen, se le 
 
 Por otro lado el algoritmo K-means que también es un algoritmo de clustering donde el objetivo es encontrar K vectores donde k es el numero de cluster y la media (u) tal que cada muestra será asignada al cluster correspondiente a la media mas cercana El modelo K-mean puede verse como un modelo GMM simplificado hasta el extremo, su implementación también es similar que el anterior.
 
-
+![Figura 12](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_11.png)
 

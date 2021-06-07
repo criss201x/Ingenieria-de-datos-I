@@ -170,3 +170,5 @@ Por otro lado el algoritmo K-means que también es un algoritmo de clustering do
 ![Figura 12](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_11.png)
 
 **Figura 8.** Entrenamiento del dataset para K-means
+
+Pero este dataset no serviría como modelo de entrenamiento porque no es posible hacer una buena predicción sin embargo GMM lo puede mejorar un poco aunque aún una solución por aprendizaje supervisado sigue quedándose corta.

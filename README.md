@@ -172,3 +172,5 @@ Por otro lado el algoritmo K-means que también es un algoritmo de clustering do
 **Figura 8.** Entrenamiento del dataset para K-means
 
 Pero este dataset no serviría como modelo de entrenamiento porque no es posible hacer una buena predicción sin embargo GMM lo puede mejorar un poco aunque aún una solución por aprendizaje supervisado sigue quedándose corta.
+
+Finalmente, para una solución por medio de clasificación por redes neuronales se traen los datos normalizados como el porcentaje de subida y bajada con respecto al primer día de cada año, este dataframe ya viene limpio y transformado, los datos normalizados para una red neuronal deben estar entre 0 y 1, también se requiere de una variable input y las capas de la red neuronal, la salida de una sola neurona dará como resultado un valor cercano a 1 si la variable a target es 1 y cercano a 0 si clasifica este ejemplo como 0, a continuación se puede observar un resumen de la red neuronal.

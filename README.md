@@ -182,3 +182,5 @@ Finalmente, para una solución por medio de clasificación por redes neuronales 
 Ahora en el modelo se tiene que ponderarle de alguna forma errores específicos, un modelo financiero se puede equivocar en una compra por una mala estimación del riesgo, por ello es importante ponderar los diferentes tipos de errores que se pueden presentar. Por eso mismo se implementa una matriz de confusión donde esta recibe la variable target y la variable predicción.
 
 en la parte izquierda superior tenemos un acierto verdadero de bajada y en la parte inferior derecha tenemos un acierto verdadero de subida en las otras diagonales, en la derecha superior tenemos una falsa subida y en la izquierda inferior una falsa bajada se podrían cambiar las reglas para cambiar estos valores.
+
+![Figura 13](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_14.png)

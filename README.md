@@ -188,3 +188,5 @@ en la parte izquierda superior tenemos un acierto verdadero de bajada y en la pa
 **Figura 10.** Matriz de confusión
 
 ### 8 Conclusiones
+
+Con los datos presentados extraídos por medio de las diferentes técnicas de webscraping implementadas, y todas las observaciones e inferencias realizadas, es suficiente afirmar que la computación, el análisis y la predicción han recorrido un largo camino en la era moderna debido al uso del Machine Learning. Se tiene, para cualquier entusiasta de la inteligencia artificial, una gran cantidad de algoritmos que pueden proporcionarnos un rango variable de precisiones y eficiencias que se adaptan mejor a un determinado conjunto de datos.

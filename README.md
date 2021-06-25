@@ -184,3 +184,7 @@ Ahora en el modelo se tiene que ponderarle de alguna forma errores específicos,
 en la parte izquierda superior tenemos un acierto verdadero de bajada y en la parte inferior derecha tenemos un acierto verdadero de subida en las otras diagonales, en la derecha superior tenemos una falsa subida y en la izquierda inferior una falsa bajada se podrían cambiar las reglas para cambiar estos valores.
 
 ![Figura 13](https://github.com/criss201x/Ingenieria-de-datos-I/blob/main/assets/Figura_14.png)
+
+**Figura 10.** Matriz de confusión
+
+### 8 Conclusiones

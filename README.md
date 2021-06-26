@@ -190,3 +190,6 @@ en la parte izquierda superior tenemos un acierto verdadero de bajada y en la pa
 ### 8 Conclusiones
 
 Con los datos presentados extraídos por medio de las diferentes técnicas de webscraping implementadas, y todas las observaciones e inferencias realizadas, es suficiente afirmar que la computación, el análisis y la predicción han recorrido un largo camino en la era moderna debido al uso del Machine Learning. Se tiene, para cualquier entusiasta de la inteligencia artificial, una gran cantidad de algoritmos que pueden proporcionarnos un rango variable de precisiones y eficiencias que se adaptan mejor a un determinado conjunto de datos.
+
+Las técnicas antes mencionadas en el documento junto con los análisis de ondas de series de tiempo que fomentan las habilidades de estas técnicas “para generar conocimientos más precisos y avanzados sobre los mercados financieros de la actualidad".[14]
+

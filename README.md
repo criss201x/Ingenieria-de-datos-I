@@ -193,3 +193,4 @@ Con los datos presentados extraídos por medio de las diferentes técnicas de we
 
 Las técnicas antes mencionadas en el documento junto con los análisis de ondas de series de tiempo que fomentan las habilidades de estas técnicas “para generar conocimientos más precisos y avanzados sobre los mercados financieros de la actualidad".[14]
 
+Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje automatizo bien ya sea supervisado o no supervisado garantizan un 100% de éxito por ejemplo en una red neuronal es complejo hallar una combinación de capas, neuronas e iteraciones optima al modelo a predecir, finalmente hay que hacer un análisis técnico mas especializado o intentar con otros algoritmos como por ejemplo (SMV), sistemas de inferencia difusos, arboles de clasificación, etc…

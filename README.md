@@ -200,4 +200,5 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 1. S. Vazirani, A. Sharma and P. Sharma, &quot;Analysis of various machine learning algorithm and hybrid model for stock market prediction using python,&quot; 2020 International Conference on Smart Technologies in Computing, Electrical and Electronics (ICSTCEE),Bengaluru, India, 2020, pp. 203-207, doi: 10.1109/ICSTCEE49637.2020.9276859.
 2. C.L. Huang and C.Y. Tsai, &quot;A hybrid SOFM-SVR with a filter-based feature selection for stock market forecasting&quot;, Expert Systems with Applications, vol. 36, pp. 1529-1539, Mar 2009.
 3. T.J. Hsieh, H.F. Hsiao, and W.C. Yeh, &quot;Forecasting stock markets using wavelet transforms and recurrent neural networks: An integrated system based on artificial bee colony algorithm&quot;, Applied Soft Computing, vol. 11, pp. 2510-2525, Mar 2011.
+4. I. Svalina, V. Galzina, R. Lujic, and G. Simunovic, "An adaptive network-based fuzzy inference system (ANFIS) for the forecasting: The case of close price indices", Expert Systems with Applications, vol. 40, pp. 6055-6063, Nov 1 2013.
 

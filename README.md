@@ -201,4 +201,5 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 2. C.L. Huang and C.Y. Tsai, &quot;A hybrid SOFM-SVR with a filter-based feature selection for stock market forecasting&quot;, Expert Systems with Applications, vol. 36, pp. 1529-1539, Mar 2009.
 3. T.J. Hsieh, H.F. Hsiao, and W.C. Yeh, &quot;Forecasting stock markets using wavelet transforms and recurrent neural networks: An integrated system based on artificial bee colony algorithm&quot;, Applied Soft Computing, vol. 11, pp. 2510-2525, Mar 2011.
 4. I. Svalina, V. Galzina, R. Lujic, and G. Simunovic, "An adaptive network-based fuzzy inference system (ANFIS) for the forecasting: The case of close price indices", Expert Systems with Applications, vol. 40, pp. 6055-6063, Nov 1 2013.
+5. L.A. Laboissiere, R.A.S. Fernandes, and G.G. Lage, "Maximum and minimum stock price forecasting of Brazilian power distribution companies based on artificial neural networks", Applied Soft Computing, vol. 35, pp. 66-74, Oct 2015.
 

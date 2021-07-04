@@ -203,4 +203,5 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 4. I. Svalina, V. Galzina, R. Lujic, and G. Simunovic, "An adaptive network-based fuzzy inference system (ANFIS) for the forecasting: The case of close price indices", Expert Systems with Applications, vol. 40, pp. 6055-6063, Nov 1 2013.
 5. L.A. Laboissiere, R.A.S. Fernandes, and G.G. Lage, "Maximum and minimum stock price forecasting of Brazilian power distribution companies based on artificial neural networks", Applied Soft Computing, vol. 35, pp. 66-74, Oct 2015.
 6. S.M. Chen and C.D. Chen, "TAIEX Forecasting Based on Fuzzy Time Series and Fuzzy Variation Groups", IEEE Transactions on Fuzzy Systems, vol. 19, pp. 1-12, Feb 2011.
+7. S.D. Bekiros, "Fuzzy adaptive decision-making for boundedly rational traders in speculative stock markets", European Journal of Operational Research, vol. 202, pp. 285-293, Apr 1 2010.
 

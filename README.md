@@ -204,4 +204,5 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 5. L.A. Laboissiere, R.A.S. Fernandes, and G.G. Lage, "Maximum and minimum stock price forecasting of Brazilian power distribution companies based on artificial neural networks", Applied Soft Computing, vol. 35, pp. 66-74, Oct 2015.
 6. S.M. Chen and C.D. Chen, "TAIEX Forecasting Based on Fuzzy Time Series and Fuzzy Variation Groups", IEEE Transactions on Fuzzy Systems, vol. 19, pp. 1-12, Feb 2011.
 7. S.D. Bekiros, "Fuzzy adaptive decision-making for boundedly rational traders in speculative stock markets", European Journal of Operational Research, vol. 202, pp. 285-293, Apr 1 2010.
+8. Q. Wen, Z. Yang, Y. Song, and P. Jia, "Automatic stock decision support system based on box theory and SVM algorithm", Expert Systems with Applications, vol. 37, pp. 1015-1022, Mar 2010.
 

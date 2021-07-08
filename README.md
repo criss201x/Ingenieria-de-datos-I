@@ -207,4 +207,5 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 8. Q. Wen, Z. Yang, Y. Song, and P. Jia, "Automatic stock decision support system based on box theory and SVM algorithm", Expert Systems with Applications, vol. 37, pp. 1015-1022, Mar 2010.
 9. P.C. Chang, T. W. Liao, J.J. Lin, and C.Y. Fan, "A dynamic threshold decision system for stock trading signal detection", Applied Soft Computing, vol. 11, pp. 3998-4010, Jul 2011.
 10. L. Luo and X. Chen, "Integrating piecewise linear representation and weighted support vector machine for stock trading signal prediction", Applied Soft Computing, vol. 13, pp. 806-816, Feb 2013.
+11. W.W.Y. Ng, X.L. Liang, J. Li, D.S. Yeung, and P.P.K. Chan, "LG-Trader: Stock trading decision support based on feature selection by weighted localized generalization error model", Neurocomputing, vol. 146, pp. 104-112, Dec 25 2014.
 

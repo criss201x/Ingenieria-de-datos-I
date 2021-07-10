@@ -209,4 +209,4 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 10. L. Luo and X. Chen, "Integrating piecewise linear representation and weighted support vector machine for stock trading signal prediction", Applied Soft Computing, vol. 13, pp. 806-816, Feb 2013.
 11. W.W.Y. Ng, X.L. Liang, J. Li, D.S. Yeung, and P.P.K. Chan, "LG-Trader: Stock trading decision support based on feature selection by weighted localized generalization error model", Neurocomputing, vol. 146, pp. 104-112, Dec 25 2014.
 12. C. Lubritto et al., "Simulation analysis and test study of BTS power saving techniques," INTELEC 2009 - 31st International Telecommunications Energy Conference, Incheon, Korea (South), 2009, pp. 1-4, doi: 10.1109/INTLEC.2009.5351801.
-
+13. Ye Shi-Qi and Peng Yong, “The Relation Between Risk And Return Of Portfolio Based On Standard Finance And Behavioral Finance,” IEEE International Conference On Control And Automation, June 2007.

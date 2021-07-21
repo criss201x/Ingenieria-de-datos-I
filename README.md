@@ -212,5 +212,5 @@ Los entrenamientos a los datasets anteriores y sus algoritmos de aprendizaje aut
 13. Ye Shi-Qi and Peng Yong, “The Relation Between Risk And Return Of Portfolio Based On Standard Finance And Behavioral Finance,” IEEE International Conference On Control And Automation, June 2007.
 14. P. Vats and K. Samdani, "Study on Machine Learning Techniques In Financial Markets," 2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN), Pondicherry, India, 2019, pp. 1-5, doi: 10.1109/ICSCAN.2019.8878741.
 15. Zhen Hu, Jie Zhu, and Ken Tse in “6th International Conference On Information Management, Innovation Management And Industrial Engineering,” November, 2013.
-16. P. Vats and K. Samdani, "Study on Machine Learning Techniques In Financial Markets," 2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN), Pondicherry, India, 2019, pp. 1-5, doi: 10.1109/ICSCAN.2019.8878741
+16. P. Vats and K. Samdani, "Study on Machine Learning Techniques In Financial Markets," 2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN), Pondicherry, India, 2019, pp. 1-5, doi: 10.1109/ICSCAN.2019.8878741.
 
